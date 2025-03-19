@@ -128,6 +128,11 @@ body{
     border-color: hsl(217, 19%, 35%) transparent transparent transparent;
 }
 
+.share:hover {
+    cursor: pointer;
+}
+
+
 #shareButtons a{
     color: hsl(214, 17%, 51%);
     text-decoration: none;

@@ -7,10 +7,10 @@ shareBtn.addEventListener("click", function (event) {
     if (shareButtons.style.opacity === "1") {
         shareButtons.style.opacity = "0";
         shareButtons.style.visibility = "hidden";
-        shareButtons.style.bottom = "150%";
+        shareButtons.style.bottom = "20%";
     } else {
         shareButtons.style.opacity = "1";
         shareButtons.style.visibility = "visible";
-        shareButtons.style.bottom = "100%"; 
+        shareButtons.style.bottom = "20%"; 
     }
 });
